@@ -11,8 +11,12 @@ I primarily work as a front-end engineer, but dabble in full-stack when I'm feel
 If you would like to contact me, shoot me a message at any of the following places:
 
 **Email:** samueluke46@gmail.com
+
 <!--- **Personal Website:** -->
+
 **GitHub:** ~/
+
 **Home Address**: 127.0.0.1
+
 **LinkedIn:**  www.linkedin.com/in/samuelluke
 
