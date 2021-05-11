@@ -12,7 +12,7 @@ If you would like to contact me, shoot me a message at any of the following plac
 
 **Email:** samueluke46@gmail.com
 
-**Personal Website:** www.samuel-luke.githuh.io
+**Personal Website:** https://samuel-luke.github.io
 
 **Home Address**: https://127.0.0.1
 
